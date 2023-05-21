@@ -1,4 +1,4 @@
-﻿"Customer_ID","name__Name","email__Email","phone__Phone_number","addresss__Address","age__Age","gender__Gender","member_status__Membership status"
+﻿"Customer_ID","name__Name","email__Email","phone__Phone_number","addresss__Address","age__Age","gender__Gender","member_status__Membership_status"
 "1","Royal Salzberger","rsalzberger0@usnews.com","83813953736","52 2nd Terrace","9","Male","False"
 "2","Aarika Showers","ashowers1@vinaora.com","7688\s7867623","48462 Weeping Birch Trail","95","Female","False"
 "3","Valeda Epperson","vepperson2@seesaa.net","74936879425","19374 Lien Lane","101","Female","True"
